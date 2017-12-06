@@ -1,0 +1,11 @@
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\bin\Debug\ExcelPackageDemo.exe.config
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\bin\Debug\ExcelPackageDemo.exe
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\bin\Debug\ExcelPackageDemo.pdb
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\bin\Debug\EPPlus.dll
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\bin\Debug\EPPlus.xml
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\obj\Debug\ExcelPackageDemo.csprojResolveAssemblyReference.cache
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\obj\Debug\ExcelPackageDemo.exe
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\obj\Debug\ExcelPackageDemo.pdb
+D:\VisualStudio開發專案\ExcelPackageDemo\ExcelPackageDemo\bin\Debug\File\tpepark.json
